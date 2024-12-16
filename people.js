@@ -1,5 +1,5 @@
-const names = require('./names');
-const hobbies = require('./hobbies');
+const createObj = require('./names');
+const createHobbies = require('./hobbies');
 
 function createPerson() {
   const name = createObj('Roberto', 'Floris');

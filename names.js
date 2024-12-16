@@ -5,4 +5,4 @@ function createObj (firstName, lastName){
   }
 }
 
-module.export = createObj;
+module.exports = createObj;
