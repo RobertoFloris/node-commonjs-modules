@@ -1,0 +1,22 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "description": "Commonjs modules === ## names.js 1. Crea una funzione che accetta due parametri: firstName, lastName. La funzione dovrebbe restituire un oggetto con le proprietà firstName e lastName. 2. Esporta la funzione dal file.",
+  "main": "hobbies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node people.js",
+    "dev": "node --watch people.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoFloris/node-commonjs-modules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoFloris/node-commonjs-modules/issues"
+  },
+  "homepage": "https://github.com/RobertoFloris/node-commonjs-modules#readme"
+}
